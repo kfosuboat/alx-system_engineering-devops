@@ -1,0 +1,2 @@
+#!/bin/bash
+printf %s'\m' {a..z}{a..z} | grep -v 'oo'
